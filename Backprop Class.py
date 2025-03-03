@@ -1,6 +1,6 @@
 import numpy as np
 import random as r
-import matplotlib.pyplot as plt
+
 class NeuralNetwork:
     def __init__(self, input_neurons, hidden_neurons, output_neurons):
         self.input_neurons = input_neurons
